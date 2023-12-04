@@ -1,0 +1,38 @@
+body{
+    background-color: azure;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calculadora{
+ position: absolute;
+ background-color: #363636;
+ margin-top: 15%;
+ margin-left: 43%;
+ border-radius: 15px;
+ padding: 15px;
+}
+
+.butao{
+    width: 50px;
+    height: 50px;
+    font-size: 25px;
+    cursor: pointer;
+    margin: 3px;
+    border-radius: 100%;
+    background-color: rgb(31, 31, 31);
+    color: #fff;
+}
+
+#result{
+    background-color: #fff;
+    width: 220px;
+    height: 30px;
+    margin: 5px;
+    color: black;
+    font-size: 25px;
+    text-align: right;
+    padding: 5px;
+}
+
